@@ -15,6 +15,7 @@
         }
     },
     "suggest": {
+        "spryker-feature/cart-notes": "Recommended feature dependency.",
         "spryker-feature/marketplace-order-management": "Recommended feature dependency."
     }
 }
