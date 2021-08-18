@@ -8,11 +8,11 @@
     "require": {
         "php": ">=7.3",
         "spryker/cart-note": "^1.0.0",
-        "spryker/cart-note-merchant-sales-order-gui": "^0.1.0"
+        "spryker/cart-note-merchant-sales-order-gui": "^1.0.0"
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202107.x-dev"
+            "dev-master": "202108.x-dev"
         }
     },
     "suggest": {
